@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Official Bawwa , a Developer from Sri Lanka 🇱🇰.
+## Hi, I'm Official Bawwa , A Developer from Sri Lanka 🇱🇰.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
