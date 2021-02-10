@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Officisl Bawwa , a Developer from Sri Lanka 🇱🇰.
+## Hi, I'm Official Bawwa , a Developer from Sri Lanka 🇱🇰.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -18,6 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- 😎 My Real name is Ravidu Prasadara
 - 👨🏽‍💻 I’m currently working on [All](https://github.com/OfficialBawwa);
 - 🌱 I’m currently learning Python And HTML(CircleCI); 
 - 💬 Ask me about anything, I am happy to help;
