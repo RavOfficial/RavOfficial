@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 😎 Call me Rav or Bawwa!
-- 👨🏽‍💻 I’m currently working on [All](https://github.com/OfficialBawwa);
+- 👨🏽‍💻 I’m currently working on [HARP Tech](https://t.me/HARP_Tech);
 - 🌱 I’m currently learning Python And HTML(CircleCI); 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student, and still Learning Phython😅;
@@ -32,7 +32,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/OfficialBawwa/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=OfficialBawwa&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Bawwa's github stats" src="https://github-readme-stats.vercel.app/api?username=OfficialBawwa&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -60,8 +60,9 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <p align="center">
-  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/OfficialBawwa/https://githubcom/OfficialBawwa/OfficialBawwa.svg" />
+  <a href="http://hits.dwyl.com/OfficialBawwa/OfficialBawwa" target="_blank">
+    <img align="center" alt="HitCount" src="http://hits.dwyl.com/OfficialBawwa/https://github.
+                                            com/OfficialBawwa/OfficialBawwa.svg" />
   </a>
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=OfficialBawwa.visitor-badge" />
 </p>
@@ -87,7 +88,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 Reach out to me 👓
 
-|  <a href="https://t.me/Official_Bawwa/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|  <a href="https://t.me/Official_Bawwa/"><img src="https://telegra.ph/file/f6134e637e987116b7bca.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Bawwa Official 🇱🇰 ](https://t.me/Raviya_2005)**                                                                                |
 |<a href="https://twitter.com/PrasadaraRavidu"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/OfficialBawwa"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/ravbawwaofficial"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="#"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
