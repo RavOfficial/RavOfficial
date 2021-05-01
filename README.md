@@ -19,11 +19,11 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 😎 Call me Rav or Bawwa!
-- 👨🏽‍💻 I’m currently working on [HARP Tech](https://t.me/HARP_Tech);
+- 👨🏽‍💻 I’m currently working on [HARP Tech](https://harptech.tk);
 - 🌱 I’m currently learning Python And HTML(CircleCI); 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student, and still Learning Phython😅;
-- 📫 How to reach me: raviyatubelight@gmail.com;
+- 📫 How to reach me: ravbawwaofficial@gmail.com;
 
 **Languages and Tools:** 
 
@@ -88,7 +88,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 Reach out to me 👓
 
-|  <a href="https://t.me/Official_Bawwa/"><img src="https://telegra.ph/file/f6134e637e987116b7bca.jpg" width="150px" height="150px" /></a> |
+|  <a href="https://bawwa.harptech.tk"><img src="https://telegra.ph/file/f6134e637e987116b7bca.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Bawwa Official 🇱🇰 ](https://t.me/Raviya_2005)**                                                                                |
+|       **[Bawwa Official 🇱🇰 ](https://bawwa.harptech.tk)**                                                                                |
 |<a href="https://twitter.com/PrasadaraRavidu"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/OfficialBawwa"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/ravbawwaofficial"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="#"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
