@@ -5,10 +5,10 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/OfficialBawwa)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_r_a_v_i_y_a_/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ravofficial)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rav_here/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Ravidu__Prasadara:raviyatubelight@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:raviyatubelight@outlook.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:raviduprasadara@outlook.com)
 
 &nbsp;
 
@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 😎 Call me Rav or Bawwa!
+- 😀 Call me Rav!
 - 👨🏽‍💻 I’m currently working on [HARP Tech](https://harptech.tk);
 - 🌱 I’m currently learning Python And HTML(CircleCI); 
 - 💬 Ask me about anything, I am happy to help;
@@ -31,8 +31,8 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/OfficialBawwa/handle-path-oz">
-    <img width="55%" align="right" alt="Bawwa's github stats" src="https://github-readme-stats.vercel.app/api?username=OfficialBawwa&show_icons=true&hide_border=true" />
+  <a href="https://github.com/ravofficial/handle-path-oz">
+    <img width="55%" align="right" alt="Rav's github stats" src="https://github-readme-stats.vercel.app/api?username=ravofficial&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -60,13 +60,13 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <p align="center">
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=OfficialBawwa.visitor-badge" />
+    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=ravofficial.visitor-badge" />
 </p>
 
 
 # MOST USED LANGUAGES
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialBawwa)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ravofficial)
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -87,4 +87,4 @@ Reach out to me 👓
 |  <a href="https://bawwa.harptech.tk"><img src="https://telegra.ph/file/f6134e637e987116b7bca.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Bawwa Official 🇱🇰 ](https://bawwa.harptech.tk)**                                                                                |
-|<a href="https://twitter.com/PrasadaraRavidu"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/OfficialBawwa"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/ravbawwaofficial"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="#"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
+|<a href="https://twitter.com/Rav_here"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/ravofficial"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/ravidu.prasadara"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="#"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
